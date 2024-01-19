@@ -19,7 +19,6 @@ const NavigationRoutes = () => {
       <Routes>
         <Route index element={<FirstStepForm />} />
         <Route path="/address_detail" element={<SecondStepForm />} />
-        {/* <Route path="/my-agency" element={<MyAgency />} /> */}
       </Routes>
     </div>
   );

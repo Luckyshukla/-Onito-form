@@ -9,7 +9,6 @@
  * 1. Lucky shukla
  */
 
-// import { IS_DEV } from '../../constants/constant';
 const IS_DEV = true;
 
 export const rootConfig = {
