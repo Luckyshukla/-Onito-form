@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Onito-form
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Steps to run this web app
+
+1. git pull origin https://github.com/Luckyshukla/-Onito-form.git
+2. npm install
+3. npm start
 
 ## Available Scripts
 
